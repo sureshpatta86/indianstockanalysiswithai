@@ -1,6 +1,6 @@
 # Indian Stock Analysis
 
-AI-powered fundamental analysis tool for Indian listed stocks (NSE/BSE). Get comprehensive 3-pillar analysis — **Fundamentals**, **Technicals**, and **Sentiment** — powered by OpenAI or Anthropic LLMs with live market data from Yahoo Finance.
+AI-powered fundamental analysis tool for Indian listed stocks (NSE/BSE). Get comprehensive 3-pillar analysis — **Fundamentals**, **Technicals**, and **Sentiment**  — powered by OpenAI or Anthropic LLMs with live market data from Yahoo Finance.
 
 ## Features
 
